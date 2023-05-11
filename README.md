@@ -1,3 +1,5 @@
+Supplementary data and files for replicating "A Strategy for Improving Alchemical Method to Predict Protein Stability upon Conserving and Charge-Changing Mutation"
+
 # Prerequisites
 
 - GROMACS 2022 version or above, OpenMPI with CUDA-aware support is highly recommended
@@ -31,14 +33,3 @@
         - /reverse: `reverse.sh`: bash script to run simulatio for reverse mutation      
     -   /ht_simulation: `ht_simulation.sh` , bash script to unfold structure through high-temperature simulation
 
-
-
-
-
-
-
-
-
-
-
-Supplementary data and files for replicating "A Strategy for Improving Alchemical Method to Predict Protein Stability upon Conserving and Charge-Changing Mutation"
