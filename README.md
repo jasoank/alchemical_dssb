@@ -5,7 +5,7 @@
 - AlphaFold2-structure prediction using ColabFold, please refer to: https://github.com/sokrypton/ColabFold
 - Add the force field to the GROMACS library
 
-    `$ export GMXLIB=/gs/hs0/tga-ishidalab/jason/new_mutation/mutff45`
+    `$ export GMXLIB=/path/to/force_field/`
 
 # Directories description
 
