@@ -7,7 +7,7 @@
 
     `$ export GMXLIB=/path/to/force_field/`
 
-# Directories description
+# Directory Description
 
 - /data
     -   /sequence: sequences for wild-type and all mutations in frataxin and p53 data sets
