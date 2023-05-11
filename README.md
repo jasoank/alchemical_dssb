@@ -16,7 +16,7 @@
             - /AF2: AlphaFold2 predicted structures
                 - /folded_structure: default predicted structures in folded state for all mutation in frataxin and p53 data sets.
                 - /unfolded_structure: unfolded structures for all mutation in frataxin and p53 data sets.
-            - /tripeptide:  
+            - /tripeptide: generate glycine capped tripeptide using Amber99SB-ILDN force field
         - /wild_type: cleaned crystal structure (\*_protein.pdb), structure predicted by AlphaFold2 (\*_wild.pdb), and unfolded structure from high-temperature simulation (\*unfolded)
 
 - /force_field: modified force field for mutations from pmx libraries
