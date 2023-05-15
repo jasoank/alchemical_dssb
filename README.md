@@ -7,7 +7,7 @@ Supplementary data and files for replicating "A Strategy for Improving Alchemica
 - AlphaFold2-structure prediction using ColabFold, please refer to: https://github.com/sokrypton/ColabFold
 - Add the force field to the GROMACS library
 
-    `$ export GMXLIB=/path/to/pmx/library/data/mutff'
+    `$ export GMXLIB=/path/to/pmx/data/mutff'
 
 # Directory Description
 
